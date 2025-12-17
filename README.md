@@ -136,9 +136,9 @@ HiddenTest/                          # Корень проекта
 <div align="center">
 
 ### Ссылки
-[🌐 Билд игры](https://drive.google.com/...) | 
-[📧 Контакты](mailto:ваш.email@example.com) | 
-[🐛 Issues](https://github.com/вашлогин/HiddenTest/issues)
+[🌐 Билд игры]([https://drive.google.com/...](https://drive.google.com/file/d/16sU_PA4h0RQ34iAxPfUo-_jIm_6EkyU3/view?usp=sharing%D1%85)) | 
+**Telegram:** [@rus_order](https://t.me/rus_order)
+**Email:** [ax-serg-ax@mail.ru](mailto:ax-serg-ax@mail.ru)
 
 *Разработано как тестовое задание • © 2025 • [Sergey Akhmetov]*
 
